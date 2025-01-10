@@ -1,0 +1,17 @@
+C:\mvc\Store\Services\bin\Debug\net8.0\Services.deps.json
+C:\mvc\Store\Services\bin\Debug\net8.0\Services.dll
+C:\mvc\Store\Services\bin\Debug\net8.0\Services.pdb
+C:\mvc\Store\Services\bin\Debug\net8.0\Entities.dll
+C:\mvc\Store\Services\bin\Debug\net8.0\Repositories.dll
+C:\mvc\Store\Services\bin\Debug\net8.0\Entities.pdb
+C:\mvc\Store\Services\bin\Debug\net8.0\Repositories.pdb
+C:\mvc\Store\Services\obj\Debug\net8.0\Services.csproj.AssemblyReference.cache
+C:\mvc\Store\Services\obj\Debug\net8.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\mvc\Store\Services\obj\Debug\net8.0\Services.AssemblyInfoInputs.cache
+C:\mvc\Store\Services\obj\Debug\net8.0\Services.AssemblyInfo.cs
+C:\mvc\Store\Services\obj\Debug\net8.0\Services.csproj.CoreCompileInputs.cache
+C:\mvc\Store\Services\obj\Debug\net8.0\Services.csproj.Up2Date
+C:\mvc\Store\Services\obj\Debug\net8.0\Services.dll
+C:\mvc\Store\Services\obj\Debug\net8.0\refint\Services.dll
+C:\mvc\Store\Services\obj\Debug\net8.0\Services.pdb
+C:\mvc\Store\Services\obj\Debug\net8.0\ref\Services.dll
