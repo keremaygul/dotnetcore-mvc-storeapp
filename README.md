@@ -1,6 +1,12 @@
 # Store App - E-Commerce Application
 
-[![TR](https://img.shields.io/badge/Lang-TR-red.svg)](#tr) [![EN](https://img.shields.io/badge/Lang-EN-blue.svg)](#en)
+<div align="center">
+
+# 🌐 Dil Seçimi / Language Selection
+
+### [🇹🇷 Türkçe](#tr) | [🇬🇧 English](#en)
+
+</div>
 
 ---
 
